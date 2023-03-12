@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ef8b7c-1d42-4bde-8b4e-fe3c1fdaa622" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/c3.recursao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/c3.recursao.py" afterDir="false" />
-    </list>
+    <list default="true" id="87ef8b7c-1d42-4bde-8b4e-fe3c1fdaa622" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +22,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Documents/Curso/GitHub/Algoritmos e Estrutura de dados",
+    "last_opened_file_path": "C:/Users/User/Documents/Curso/GitHub/PEC/Desen.Orientado_a_Testes",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
